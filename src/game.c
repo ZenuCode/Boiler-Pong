@@ -1,10 +1,3 @@
-/*
- * game.c
- *
- *  Created on: Apr 27, 2022
- *      Author: paing
- */
-
 #include "stm32f0xx.h"
 #include <stdint.h>
 #include <stdbool.h>
