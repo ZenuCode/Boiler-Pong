@@ -1,0 +1,11 @@
+Plotted to '/home/shay/a/ooh/362_schematics/368project/368project-F_Cu.gbr'.
+Plotted to '/home/shay/a/ooh/362_schematics/368project/368project-B_Cu.gbr'.
+Plotted to '/home/shay/a/ooh/362_schematics/368project/368project-F_Paste.gbr'.
+Plotted to '/home/shay/a/ooh/362_schematics/368project/368project-B_Paste.gbr'.
+Plotted to '/home/shay/a/ooh/362_schematics/368project/368project-F_Silkscreen.gbr'.
+Plotted to '/home/shay/a/ooh/362_schematics/368project/368project-B_Silkscreen.gbr'.
+Plotted to '/home/shay/a/ooh/362_schematics/368project/368project-F_Mask.gbr'.
+Plotted to '/home/shay/a/ooh/362_schematics/368project/368project-B_Mask.gbr'.
+Plotted to '/home/shay/a/ooh/362_schematics/368project/368project-Edge_Cuts.gbr'.
+Created Gerber job file '/home/shay/a/ooh/362_schematics/368project/368project-job.gbrjob'.
+Info: Done.
