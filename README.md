@@ -29,6 +29,6 @@ Extra Components
 
 Creators
 - Paing Khant (pkhant@purdue.edu)
-- Henry Oo ()
+- Henry Oo (henry.hantunoo.2000@gmail.com)
 - David Lee (lee2113@purdue.edu)
-- Kenny Stier ()
+- Kenny Stier (kenny.stier19@gmail.com)
